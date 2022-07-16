@@ -1,0 +1,2 @@
+# Diabetic_retinopathy
+ Diabetes retinopathy is caused by elevated blood sugar levels. Too much sugar in your blood can damage your retina over time, which is the area of your eye that is responsible for vision. The purpose of DR screening is to identify people with sight-threatening DR , so that they are treated promptly to prevent blindness. Hence, we propose a CNN-based approach for DR screening.
